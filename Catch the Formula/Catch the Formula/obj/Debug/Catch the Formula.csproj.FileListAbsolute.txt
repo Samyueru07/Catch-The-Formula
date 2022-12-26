@@ -1,0 +1,11 @@
+C:\Users\Samyueru Masson\OneDrive\Desktop\Catch the Formula\Catch the Formula\bin\Debug\Catch the Formula.exe.config
+C:\Users\Samyueru Masson\OneDrive\Desktop\Catch the Formula\Catch the Formula\bin\Debug\Catch the Formula.exe
+C:\Users\Samyueru Masson\OneDrive\Desktop\Catch the Formula\Catch the Formula\bin\Debug\Catch the Formula.pdb
+C:\Users\Samyueru Masson\OneDrive\Desktop\Catch the Formula\Catch the Formula\obj\Debug\Catch the Formula.csproj.AssemblyReference.cache
+C:\Users\Samyueru Masson\OneDrive\Desktop\Catch the Formula\Catch the Formula\obj\Debug\Catch the Formula.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samyueru Masson\OneDrive\Desktop\Catch the Formula\Catch the Formula\obj\Debug\Catch_the_Formula.Form1.resources
+C:\Users\Samyueru Masson\OneDrive\Desktop\Catch the Formula\Catch the Formula\obj\Debug\Catch_the_Formula.Properties.Resources.resources
+C:\Users\Samyueru Masson\OneDrive\Desktop\Catch the Formula\Catch the Formula\obj\Debug\Catch the Formula.csproj.GenerateResource.cache
+C:\Users\Samyueru Masson\OneDrive\Desktop\Catch the Formula\Catch the Formula\obj\Debug\Catch the Formula.csproj.CoreCompileInputs.cache
+C:\Users\Samyueru Masson\OneDrive\Desktop\Catch the Formula\Catch the Formula\obj\Debug\Catch the Formula.exe
+C:\Users\Samyueru Masson\OneDrive\Desktop\Catch the Formula\Catch the Formula\obj\Debug\Catch the Formula.pdb
